@@ -1,0 +1,14 @@
+﻿  Face.cpp
+D:\ambiente de trabalho 2\school\IPV\ano 2\semestre 1\POO\Projeto POO\Projeto_POO\Projeto_POO\Face.cpp(38,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\ambiente de trabalho 2\school\IPV\ano 2\semestre 1\POO\Projeto POO\Projeto_POO\Projeto_POO\Face.cpp(129,9): warning C4101: 'a': variável local não referenciada
+D:\ambiente de trabalho 2\school\IPV\ano 2\semestre 1\POO\Projeto POO\Projeto_POO\Projeto_POO\Face.cpp(130,12): warning C4101: 'e': variável local não referenciada
+D:\ambiente de trabalho 2\school\IPV\ano 2\semestre 1\POO\Projeto POO\Projeto_POO\Projeto_POO\Face.cpp(129,12): warning C4101: 'b': variável local não referenciada
+D:\ambiente de trabalho 2\school\IPV\ano 2\semestre 1\POO\Projeto POO\Projeto_POO\Projeto_POO\Face.cpp(130,15): warning C4101: 'f': variável local não referenciada
+D:\ambiente de trabalho 2\school\IPV\ano 2\semestre 1\POO\Projeto POO\Projeto_POO\Projeto_POO\Face.cpp(129,15): warning C4101: 'c': variável local não referenciada
+D:\ambiente de trabalho 2\school\IPV\ano 2\semestre 1\POO\Projeto POO\Projeto_POO\Projeto_POO\Face.cpp(130,9): warning C4101: 'd': variável local não referenciada
+  Gerando código
+  7 of 754 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Projeto_POO.vcxproj -> D:\ambiente de trabalho 2\school\IPV\ano 2\semestre 1\POO\Projeto POO\Projeto_POO\Release\Projeto_POO.exe
