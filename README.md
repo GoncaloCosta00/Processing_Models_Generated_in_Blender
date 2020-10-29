@@ -2,8 +2,7 @@
 Project of class "Programação Orientada a Objetos"
 
 
-In the development of visually appealing computer games it is
-it is necessary to model numerous objects. For this, one of the tools
+In the development of visually appealing computer games it is necessary to model numerous objects. For this, one of the tools
 used is Blender. In this tool the user creates the models that are later exported
 for a game engine.
 
